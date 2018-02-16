@@ -3,7 +3,7 @@
 
     <groupId>org.eurekaclinical</groupId>
     <artifactId>eurekaclinical-tomcat-lib</artifactId>
-    <version>1.0-Beta-2-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>pom</packaging>
 
     <name>Eureka! Clinical Tomcat lib Directory Jarfiles</name>
@@ -20,7 +20,7 @@
         <developerConnection>scm:git:https://github.com/eurekaclinical/eurekaclinical-tomcat-lib.git</developerConnection>
         <connection>scm:git:https://github.com/eurekaclinical/eurekaclinical-tomcat-lib.git</connection>
         <url>https://github.com/eurekaclinical/eurekaclinical-tomcat-lib.git</url>
-        <tag>HEAD</tag>
+        <tag>eurekaclinical-tomcat-lib-1.0</tag>
     </scm>
     
     <issueManagement>
